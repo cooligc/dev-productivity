@@ -3,6 +3,12 @@
 # Unit / Functional Testing
 - [restAssured](http://rest-assured.io/)
 - [spock](http://spockframework.org/)
+- [Hamcrest](http://hamcrest.org/JavaHamcrest/tutorial)
+- [testng](https://testng.org/doc/index.html)
+- [junit](https://junit.org/junit5/)
+- [mokito](https://site.mockito.org/)
+- [powermock](https://github.com/powermock/powermock)
+- [jasmine](https://jasmine.github.io/)
 
 # Performace Tools
 - [gatling](https://gatling.io/docs/current/)
