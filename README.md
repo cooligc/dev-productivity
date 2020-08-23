@@ -19,6 +19,8 @@
 - [glowroot](https://glowroot.org/overhead.html)
 - [dynatrace](https://www.dynatrace.com/support/help/get-started/)
 - [jProfiler](https://www.ej-technologies.com/products/jprofiler/docs)
+- [VisualVM](https://visualvm.github.io/)
+- [VisualGC](https://www.oracle.com/java/technologies/visual-garbage-collection-monitoring-tool.html)
 
 # Rest Client
 - [Postman](https://www.postman.com/)
