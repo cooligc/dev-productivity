@@ -6,6 +6,7 @@
 - [javalin](https://javalin.io/tutorials/)
 - [Dropwizard](https://www.dropwizard.io/en/latest/)
 - [vert.x](https://vertx.io/)
+- [micronaut](https://micronaut.io/)
 
 
 # Unit / Functional Testing
