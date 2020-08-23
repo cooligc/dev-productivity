@@ -5,6 +5,7 @@
 - [Struts](https://struts.apache.org/)
 - [javalin](https://javalin.io/tutorials/)
 - [Dropwizard](https://www.dropwizard.io/en/latest/)
+- [vert.x](https://vertx.io/)
 
 
 # Unit / Functional Testing
