@@ -1,5 +1,12 @@
 # dev-productivity
 
+# JVM Based Webframework
+- [Spring](https://spring.io/)
+- [Struts](https://struts.apache.org/)
+- [javalin](https://javalin.io/tutorials/)
+- [Dropwizard](https://www.dropwizard.io/en/latest/)
+
+
 # Unit / Functional Testing
 - [restAssured](http://rest-assured.io/)
 - [spock](http://spockframework.org/)
