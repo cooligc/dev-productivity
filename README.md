@@ -7,6 +7,7 @@
 - [dropwizard](https://www.dropwizard.io/en/latest/)
 - [vert.x](https://vertx.io/)
 - [micronaut](https://micronaut.io/)
+- [axon-cqrs-event-sourcing] (https://www.baeldung.com/axon-cqrs-event-sourcing)
 
 
 # Unit / Functional Testing
