@@ -8,6 +8,7 @@
 - [vert.x](https://vertx.io/)
 - [micronaut](https://micronaut.io/)
 - [axon-cqrs-event-sourcing](https://www.baeldung.com/axon-cqrs-event-sourcing)
+- [jHipster](https://www.jhipster.tech/)
 
 
 # Unit / Functional Testing
