@@ -9,6 +9,7 @@
 - [micronaut](https://micronaut.io/)
 - [axon-cqrs-event-sourcing](https://www.baeldung.com/axon-cqrs-event-sourcing)
 - [jHipster](https://www.jhipster.tech/)
+- [FailSafe](https://jodah.net/failsafe/)
 
 
 # Unit / Functional Testing
