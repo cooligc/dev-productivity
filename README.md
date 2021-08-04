@@ -27,6 +27,9 @@
 - [jmeter](https://jmeter.apache.org/)
 - [load-runnner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
 
+# SSL
+- Enable JVM SSL Debugging ``` -Djavax.net.debug=ssl:record -Djavax.net.debug=ssl:handshake ```
+
 # JVM Instrumention
 - [glowroot](https://glowroot.org/overhead.html)
 - [dynatrace](https://www.dynatrace.com/support/help/get-started/)
