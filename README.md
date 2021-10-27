@@ -36,6 +36,7 @@
 - [jProfiler](https://www.ej-technologies.com/products/jprofiler/docs)
 - [visualVM](https://visualvm.github.io/)
 - [visualGC](https://www.oracle.com/java/technologies/visual-garbage-collection-monitoring-tool.html)
+- [java-melody](https://github.com/javamelody/javamelody)
 
 # Rest Client
 - [postman](https://www.postman.com/)
